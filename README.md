@@ -2,28 +2,13 @@
 
 ### Hi there 👋
 
-I am a web front-end developer.And Still keep learning.
+I am TOBY，an ordinary sophomore from GDOU.
 
-[详细自我介绍(Chinese)](https://blog.shiinafan.top/about/)
+[详细自我介绍(Chinese)](https://tobyhhw.github.io/about/)
 
-<!--
-**QingXia-Ela/QingXia-Ela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=TOBYhhw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=QingXia-Ela&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
-
-[个人博客 / My Blog](https://blog.shiinafan.top/)
+[个人博客 / My Blog](https://tobyhhw.github.io/)
 
 ### 我的社交账户 / My social account
 
@@ -34,15 +19,10 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/SparkXiao-@163.com-red?style=flat-square)](mailto:elahere@163.com)
 [![](https://img.shields.io/badge/Mashiro-@qq.com-skyblue?style=flat-square)](mailto:3092514593@qq.com)
-### Hi there 👋，I am TOBY，an ordinary sophomore from GDOU
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOBYhhw&show_icons=true&theme=tokyonight)
+
 ---
 ### 常用语言占比统计
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOBYhhw&layout=compact&theme=tokyonight)
-
-
-
-**TOBYhhw/TOBYhhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
