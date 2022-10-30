@@ -1,6 +1,8 @@
 ### Hi there 👋，I am TOBY，an ordinary sophomore from GDOU
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOBYhhw&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/TOBYhhw/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOBYhhw&layout=compact&theme=tokyonight)
+
 
 <!--
 **TOBYhhw/TOBYhhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
