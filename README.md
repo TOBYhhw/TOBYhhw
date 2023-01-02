@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-I am TOBY，an ordinary sophomore from GDOU.
-- 🔭 I’m currently studying on GDOU
-- 🌱 I’m currently learning web
+I am TOBY，一个来自广东海洋大学的大二学生
+- 🔭 目前正在学习前端开发
+- 🌱 欢迎关注我的博客
 
 
 [详细自我介绍(Chinese)](https://tobyhhw.github.io/about/)
