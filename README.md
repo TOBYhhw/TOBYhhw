@@ -14,6 +14,7 @@ I am TOBY，一个来自广东海洋大学的大二学生
 [个人博客 / My Blog](https://tobyhhw.github.io/)
   
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=TOBYhhw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TOBYhhw&hide=css,html&layout=compact&langs_count=8)
 
 
 
