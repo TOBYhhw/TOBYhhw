@@ -36,17 +36,4 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
   
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=TOBYhhw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TOBYhhw&hide=css,html&layout=compact&langs_count=8)
-
-### Github 贡献图
-[![TOBYhhw's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TOBYhhw&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
-
-
-
-
-
-
-
-
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=TOBYhhw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#) 
