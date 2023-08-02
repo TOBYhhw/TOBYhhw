@@ -4,7 +4,7 @@
 ## 一只来自GDOU的鼠鼠罢了 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://i03piccdn.sogoucdn.com/48703566809fe06a" width="300" height="100%" /></div>
 
 - 大家好，我是TOBY，来自广东广州
 - 一个来自广东海洋大学的大三学生
