@@ -18,7 +18,6 @@
 
 - <a href="https://tobyhhw.github.io"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人博客 / My Blog
 - <a href="https://space.bilibili.com/38534381"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页
-- <a href="https://leetcode.cn/u/toby-ex/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页
 - <a href="https://tobyhhw.github.io/about/"><img height="22" width="22" src="https://avatars.githubusercontent.com/u/96869746?v=4"></a>：详细自我介绍(Chinese)
 - <a href="https://tobyhhw.github.io/posts/e5cf9037.html"><img height="22" width="22" src="https://avatars.githubusercontent.com/u/96869746?v=4"></a>：个人的前端学习路线
 
