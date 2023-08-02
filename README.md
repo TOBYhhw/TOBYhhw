@@ -7,7 +7,7 @@
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
 - 大家好，我是TOBY，来自广东广州
-- 一个来自广东海洋大学的大二学生
+- 一个来自广东海洋大学的大三学生
 - 🔭 目前正在学习前端开发
 - 🍧欢迎光临我的Github 
 - 🌱 欢迎关注我的博客
