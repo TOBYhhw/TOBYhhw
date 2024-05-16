@@ -8,6 +8,8 @@
 
 - 大家好，我是TOBY，来自广东广州
 - 一个来自广东海洋大学的大三学生
+- 2024年2月-5月工作于快手主站技术部
+- 2024年5月-至今就职于腾讯QQ音乐
 - 🔭 目前正在学习前端开发
 - 🍧欢迎光临我的Github 
 - 🌱 欢迎关注我的博客
@@ -18,6 +20,7 @@
 
 - <a href="https://tobyhhw.github.io"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人博客 / My Blog
 - <a href="https://space.bilibili.com/38534381"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页
+- <a href="https://juejin.cn/user/2230235573002653"><img height="22" width="22" src="https://www.juejin.com/favicon.ico"></a>：掘金主页
 - <a href="https://tobyhhw.github.io/about/"><img height="22" width="22" src="https://avatars.githubusercontent.com/u/96869746?v=4"></a>：详细自我介绍(Chinese)
 - <a href="https://tobyhhw.github.io/posts/e5cf9037.html"><img height="22" width="22" src="https://avatars.githubusercontent.com/u/96869746?v=4"></a>：个人的前端学习路线
 
