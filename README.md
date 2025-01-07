@@ -4,7 +4,7 @@
 <div><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlU-oGzo2En0SpvYCrK3R28EuyAsVtn4HeeQ&usqp=CAU" width="300" height="100%" /></div>
 
 - 大家好，我是TOBY，来自广东广州
-- 一个来自广东海洋大学的大三学生
+- 一个来自广东海洋大学的大四学生
 - 🔭 目前正在学习前端开发
 - 🍧欢迎光临我的Github 
 - 🌱 欢迎关注我的博客[掘金主页](https://juejin.cn/user/2230235573002653)
